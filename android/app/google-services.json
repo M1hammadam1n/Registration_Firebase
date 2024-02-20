@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741524518122",
+    "project_id": "fier-2bae8",
+    "storage_bucket": "fier-2bae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741524518122:android:e7fcec23d019b4e67f9393",
+        "android_client_info": {
+          "package_name": "com.example.fier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYw_fISgzmXGtebkIMmjd3rbnAK6sAk-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
